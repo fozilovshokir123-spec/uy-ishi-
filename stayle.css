@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2B4-vTV7F6tb4y1-MwTTq70JyrL1GyX9XGQ&s");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+}
+
+h1 {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin: 20px;
+}
+.cs {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 70%;
+  margin: 20px auto;
+  padding: 20px;
+}
+.sory {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 70%;
+  margin: 20px auto;
+  padding: 20px;
+}
+thead {
+  background-color: darkorange;
+}
+tbody {
+  color: white;
+}
+.nikm {
+  background-color: white;
+  width: 70%;
+  margin: 20px auto;
+  padding: 20px;
+}
+.eror404 {
+  color: rgb(0, 0, 0);
+}
+p {
+  color: black;
+}
+.lorem {
+  background-color: darkorange;
+}
